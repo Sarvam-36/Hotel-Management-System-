@@ -40,10 +40,11 @@ Hotel-Management-System/
    git clone https://github.com/Sarvam-36/Hotel-Management-System-.git
 2. Open the project folder:
    cd Hotel-Management-System-
+   
+## 🚀 Future Enhancements
 
-##🚀 Future Enhancements
+- Online booking system  
+- Payment gateway integration  
+- Admin and user login system  
+- Improved UI  
 
-Online booking system
-Payment gateway integration
-Admin and user login system
-Improved UI
